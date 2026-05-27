@@ -1,4 +1,4 @@
-# ¡Hola! Soy Santi (@TIANHH77) 👋
+# ¡Hola! Soy Santiago (@TIANHH77) 👋
 
 **Data Engineer & Backend Developer** | Especialista en arquitecturas in-memory, gobernanza de datos y el desarrollo de APIs de alto rendimiento. Transformo ecosistemas de datos fragmentados en Data Lakes estructurados y construyo puentes conversacionales utilizando Inteligencia Artificial. *Rescatando el valor humano de las trayectorias desde las nuevas tecnologías, con-sentido.*
 
