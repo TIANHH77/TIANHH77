@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Santi (@TIANHH77) 👋
 
-<!--
-**TIANHH77/TIANHH77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer & Backend Developer** | Especialista en arquitecturas in-memory, gobernanza de datos y el desarrollo de APIs de alto rendimiento. Transformo ecosistemas de datos fragmentados en Data Lakes estructurados y construyo puentes conversacionales utilizando Inteligencia Artificial. Rescatando el valor humano de las trayectorias desde las nuevas tecnologias, con-sentido.
 
-Here are some ideas to get you started:
+### 🚀 Qué estoy haciendo actualmente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚖️ **Sistemas de Transparencia:** Desarrollando **SUR DAO**, un protocolo descentralizado de auditoría forense para trayectorias académicas que procesa más de **500 millones de registros** desde Educacion Parvularia, pasando por Educacion Basica y Media; y concluyendo con educación Superior en Chile, todo mediante bases de datos publicas. Primera fase de un proyecto a mayor escala, Educación.
+  
+* 🤖 **Asistentes con IA:** Integrando **Bots de Telegram** potenciados con **RAG (Retrieval-Augmented Generation)** y **Embeddings** para consultar normativas institucionales y bases de datos mediante lenguaje natural.
+  
+* 🏗️ **Ingeniería a Gran Escala:** Diseñando un **Data Lake Longitudinal** de más de **500 millones de registros** del sistema Educacional Chileno, optimizando pipelines con almacenamiento columnar (Parquet) y procesamiento in-memory (**DuckDB**).
+  
+* 🔌 **Backend & Integraciones:** Construyendo ecosistemas híbridos que combinan bases de datos relacionales tradicionales (**MySQL**) con interfaces REST ultrarrápidas (**FastAPI**).
+
+### 🛠️ Stack Tecnológico
+
+* **Backend & Integraciones:** Python, FastAPI, Telegram Bot API
+* **Data Engineering & Bases de Datos:** DuckDB, MySQL, SQL, Pandas, Ecosistema Parquet, Git LFS
+* **Inteligencia Artificial:** RAG, Embeddings, LLMs
+* **Arquitectura:** Diseño por Dominios (Medallion Architecture), Data Lakes, APIs REST, Gobernanza de Datos
+
+### 📷 Preservación Digital
+* 🗺️ **Atlas Interactivo:** Desarrollo de un pipeline automatizado (Python + JS) para la preservación, geolocalización y renderizado web de un archivo histórico de más de 1.500 registros visuales.
+
+---
+
