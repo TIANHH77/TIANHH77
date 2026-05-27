@@ -16,11 +16,8 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 Data Engineering & Bases de Datos: DuckDB, Ecosistema Parquet, Pandas, MySQL, SQL.
 
 Arquitectura: Diseño por Dominios (Medallion Architecture), Data Lakes, Gobernanza de Datos.
-
 Backend & APIs: Python, FastAPI, Telegram Bot API.
-
 Inteligencia Artificial: RAG, Embeddings, LLMs.
-
 Herramientas: Git, Git LFS.
 
 
