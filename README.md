@@ -20,4 +20,20 @@ Backend & APIs: Python, FastAPI, Telegram Bot API.
 Inteligencia Artificial: RAG, Embeddings, LLMs.
 Herramientas: Git, Git LFS.
 
+### 📊 Evidencia de Producción y Escala
+
+Nada habla más fuerte que el código en ejecución. A continuación, algunas capturas del motor de procesamiento in-memory y la infraestructura del Data Lake asimilando los datos históricos del Estado:
+
+**1. Auditoría Profunda: +510 Millones de Registros**
+> Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 12 dominios distintos en tiempo récord.
+![Total Consolidado](assets/captura_510M.png)
+
+**2. Infraestructura del Data Lake Local**
+> +11.500 archivos fragmentados unificados y transformados a ecosistema columnar (Parquet) optimizado para analítica.
+![Data Lake Size](assets/captura_datalake.png)
+
+**3. Pipelines de Asimilación de Datos (ETL)**
+> Scripts de conversión procesando la serie completa de Evaluación Docente (ECEP) y el Ejército Silencioso (Asistentes de la Educación).
+![Pipeline Docentes](assets/captura_pipeline1.png)
+![Pipeline Asistentes](assets/captura_pipeline2.png)
 
