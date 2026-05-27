@@ -1,23 +1,26 @@
-# ¡Hola! Soy Santiago (@TIANHH77) 👋
+👨‍💻 Ingeniero de Datos | Custodio de la Información | Analista Forense
+Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeniería de datos masiva para auditar, unificar y dar sentido a la información a gran escala.
 
-**Data Engineer & Backend Developer** | Especialista en arquitecturas in-memory, gobernanza de datos y el desarrollo de APIs de alto rendimiento. Transformo ecosistemas de datos fragmentados en Data Lakes estructurados y construyo puentes conversacionales utilizando Inteligencia Artificial. *Rescatando el valor humano de las trayectorias desde las nuevas tecnologías, con-sentido.*
+🚀 Qué estoy haciendo actualmente
+⚖️ Sistemas de Transparencia (SUR DAO): Desarrollando un protocolo de auditoría forense para trayectorias académicas. Proceso más de 510 millones de registros estatales (desde Educación Parvularia hasta Superior) para democratizar la gobernanza de datos.
 
-### 🚀 Qué estoy haciendo actualmente
+🏗️ Ingeniería a Gran Escala: Diseñando y manteniendo un Data Lake Longitudinal local de más de 5.6 GB. Optimizo pipelines con almacenamiento columnar (Parquet) y procesamiento in-memory (DuckDB) para ejecutar cruces estadísticos en milisegundos.
 
-* ⚖️ **Sistemas de Transparencia:** Desarrollando **SUR DAO**, un protocolo descentralizado de auditoría forense para trayectorias académicas que procesa más de **500 millones de registros** desde Educación Parvularia, pasando por Básica y Media, y concluyendo con Educación Superior en Chile, utilizando bases de datos públicas. Primera fase de un proyecto a mayor escala: Educación.
-* 🤖 **Asistentes con IA:** Integrando **Bots de Telegram** potenciados con **RAG (Retrieval-Augmented Generation)** y **Embeddings** para consultar normativas institucionales y bases de datos mediante lenguaje natural.
-* 🏗️ **Ingeniería a Gran Escala:** Diseñando un **Data Lake Longitudinal** de más de 500 millones de registros del sistema Educacional Chileno, optimizando pipelines con almacenamiento columnar (Parquet) y procesamiento in-memory (**DuckDB**).
-* 🔌 **Backend & Integraciones:** Construyendo ecosistemas híbridos que combinan bases de datos relacionales tradicionales (**MySQL**) con interfaces REST ultrarrápidas (**FastAPI**).
+🤖 Asistentes con IA: Integrando bots de Telegram potenciados con RAG (Retrieval-Augmented Generation) y Embeddings para consultar normativas institucionales y bases de datos complejas mediante lenguaje natural.
 
-### 🛠️ Stack Tecnológico
-* **Backend & Integraciones:** Python, FastAPI, Telegram Bot API
-* **Data Engineering & Bases de Datos:** DuckDB, MySQL, SQL, Pandas, Ecosistema Parquet, Git LFS
-* **Inteligencia Artificial:** RAG, Embeddings, LLMs
-* **Arquitectura:** Diseño por Dominios (Medallion Architecture), Data Lakes, APIs REST, Gobernanza de Datos
+🔌 Backend & Integraciones: Construyendo ecosistemas híbridos que combinan bases de datos relacionales tradicionales con interfaces REST ultrarrápidas mediante FastAPI.
 
-### 📷 Preservación Digital
-* 🗺️ **Atlas Interactivo:** Desarrollo de un pipeline automatizado (Python + JS) para la preservación, geolocalización y renderizado web de un archivo histórico de más de 1.500 registros visuales.
+📷 Preservación Digital (Atlas Interactivo): Desarrollo de un pipeline automatizado (Python + Vanilla JS) para la preservación, geolocalización y renderizado web de un archivo histórico de más de 1.500 registros visuales.
 
----
+🛠️ Stack Tecnológico
+Data Engineering & Bases de Datos: DuckDB, Ecosistema Parquet, Pandas, MySQL, SQL.
+
+Arquitectura: Diseño por Dominios (Medallion Architecture), Data Lakes, Gobernanza de Datos.
+
+Backend & APIs: Python, FastAPI, Telegram Bot API.
+
+Inteligencia Artificial: RAG, Embeddings, LLMs.
+
+Herramientas: Git, Git LFS.
 
 
