@@ -37,3 +37,7 @@ Nada habla más fuerte que el código en ejecución. A continuación, algunas ca
 ![Pipeline Docentes](assets/captura_pipeline1.png)
 ![Pipeline Asistentes](assets/captura_pipeline2.png)
 
+**4. Despliegue de API REST (FastAPI)**
+> Interfaz de consulta ultrarrápida documentada con Swagger/OpenAPI. Expone los cruces analíticos del Data Lake (riesgo institucional, talento docente y conversión PAES) listos para consumo en producción.
+![API Swagger](assets/captura_swagger.png)
+
