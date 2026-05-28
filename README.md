@@ -1,6 +1,6 @@
 <div align="center">
   
-#  TIANHH77
+# 👨‍💻 TIANHH77
 
 **Ingeniero de Datos | Custodio de la Información | Analista Forense**
 
@@ -56,6 +56,54 @@ Ultra-fast query interface documented with Swagger/OpenAPI. It exposes the Data 
 <br>
 </details>
 
+<details>
+<summary><b>🇧🇷 Versão em Português (Clique para expandir)</b></summary>
+<br>
+
+Combino a visão sistêmica e crítica da Terapia Ocupacional com a engenharia de dados em larga escala para auditar, unificar e dar sentido à informação em grande escala.
+
+### 🚀 O que estou fazendo atualmente
+* ⚖️ **Sistemas de Transparência (SUR DAO):** Desenvolvendo um protocolo de auditoria forense para trajetórias acadêmicas. Processo mais de 510 milhões de registros estatais (da Educação Infantil ao Ensino Superior) para democratizar a governança de dados.
+* 🏗️ **Engenharia em Larga Escala:** Projetando e mantendo um Data Lake Longitudinal local de mais de 5,6 GB. Otimizo pipelines com armazenamento colunar (Parquet) e processamento in-memory (DuckDB) para executar cruzamentos estatísticos em milissegundos.
+* 🤖 **Assistentes com IA:** Integrando bots do Telegram potencializados com RAG (Retrieval-Augmented Generation) e Embeddings para consultar normas institucionais e bancos de dados complexos usando linguagem natural.
+* 🔌 **Backend & Integrações:** Construindo ecossistemas híbridos que combinam bancos de dados relacionais tradicionais com interfaces REST ultrarrápidas usando FastAPI.
+* 📷 **Preservação Digital (Atlas Interativo):** Desenvolvimento de um pipeline automatizado (Python + Vanilla JS) para a preservação, geolocalização e renderização web de um arquivo histórico de mais de 1.500 registros visuais.
+
+### 🛠️ Stack Tecnológico
+* **Engenharia de Dados e Bancos de Dados:** DuckDB, Ecossistema Parquet, Pandas, MySQL, SQL.
+* **Arquitetura:** Design Orientado a Domínios (Medallion Architecture), Data Lakes, Governança de Dados.
+* **Backend e APIs:** Python, FastAPI, Telegram Bot API.
+* **Inteligência Artificial:** RAG, Embeddings, LLMs.
+* **Ferramentas:** Git, Git LFS.
+
+### 📊 Evidência de Produção e Escala
+*Nada fala mais alto do que o código em execução. Abaixo, algumas capturas do motor de processamento in-memory e da infraestrutura do Data Lake assimilando os dados históricos do Estado:*
+
+**1. Auditoria Profunda: +510 Milhões de Registros**
+Escaneamento forense dos domínios educacionais usando DuckDB. O motor unifica 12 domínios diferentes em tempo recorde. 
+<br>
+<img src="./assets/captura_510M.png" alt="Auditoria DuckDB">
+
+**2. Infraestrutura do Data Lake Local**
++11.500 arquivos fragmentados unificados e transformados em um ecossistema colunar (Parquet) otimizado para análise. 
+<br>
+<img src="./assets/captura_datalake.png" alt="Infraestrutura Parquet">
+
+**3. Pipelines de Assimilação de Dados (ETL)**
+Scripts de conversão processando a série completa de Avaliação Docente (ECEP) e o Exército Silencioso (Assistentes da Educação). 
+<br>
+<img src="./assets/captura_pipeline1.png" alt="Pipeline ETL 1">
+<br>
+<img src="./assets/captura_pipeline2.png" alt="Pipeline ETL 2">
+
+**4. Implantação de API REST (FastAPI)**
+Interface de consulta ultrarrápida documentada com Swagger/OpenAPI. Expõe os cruzamentos analíticos do Data Lake (risco institucional, talento docente e conversão PAES) prontos para consumo em produção.
+<br>
+<img src="./assets/captura_swagger.png" alt="Implantação FastAPI">
+
+<br>
+</details>
+
 <details open>
 <summary><b>🇪🇸 Versión en Español</b></summary>
 <br>
@@ -63,7 +111,7 @@ Ultra-fast query interface documented with Swagger/OpenAPI. It exposes the Data 
 Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeniería de datos masiva para auditar, unificar y dar sentido a la información a gran escala.
 
 ### 🚀 Qué estoy haciendo actualmente
-* ⚖️ **Sistemas de Transparencia (SUR DAO):** Desarrollando un protocolo de auditoría forense para trayectorias académicas. Proceso más de 510 millones de registros estatales (desde Educación Parvularia hasta Superior) para democratizar la gobernanza de datos.
+* ⚖️ **Sistemas de Transparencia (SUR DAO):** Desarrollando un protocolo de auditoria forense para trayectorias académicas. Proceso más de 510 millones de registros estatales (desde Educación Parvularia hasta Superior) para democratizar la gobernanza de datos.
 * 🏗️ **Ingeniería a Gran Escala:** Diseñando y manteniendo un Data Lake Longitudinal local de más de 5.6 GB. Optimizo pipelines con almacenamiento columnar (Parquet) y procesamiento in-memory (DuckDB) para ejecutar cruces estadísticos en milisegundos.
 * 🤖 **Asistentes con IA:** Integrando bots de Telegram potenciados con RAG (Retrieval-Augmented Generation) y Embeddings para consultar normativas institucionales y bases de datos complejas mediante lenguaje natural.
 * 🔌 **Backend & Integraciones:** Construyendo ecosistemas híbridos que combinan bases de datos relacionales tradicionales con interfaces REST ultrarrápidas mediante FastAPI.
@@ -103,4 +151,3 @@ Interfaz de consulta ultrarrápida documentada con Swagger/OpenAPI. Expone los c
 
 <br>
 </details>
-
