@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 TIANHH77
+#  TIANHH77
 
 **Ingeniero de Datos | Custodio de la Información | Analista Forense**
 
@@ -33,15 +33,25 @@ I combine the systemic and critical vision of Occupational Therapy with massive 
 
 **1. Deep Audit: +510 Million Records**
 Forensic scanning of educational domains using DuckDB. The engine unifies 12 different domains in record time. 
+<br>
+<img src="./assets/captura_510M.png" alt="DuckDB Audit">
 
 **2. Local Data Lake Infrastructure**
 +11,500 fragmented files unified and transformed into a columnar ecosystem (Parquet) optimized for analytics. 
+<br>
+<img src="./assets/captura_datalake.png" alt="Parquet Infrastructure">
 
 **3. Data Assimilation Pipelines (ETL)**
 Conversion scripts processing the complete series of Teacher Evaluation (ECEP) and the Silent Army (Education Assistants). 
+<br>
+<img src="./assets/captura_pipeline1.png" alt="ETL Pipeline 1">
+<br>
+<img src="./assets/captura_pipeline2.png" alt="ETL Pipeline 2">
 
 **4. REST API Deployment (FastAPI)**
 Ultra-fast query interface documented with Swagger/OpenAPI. It exposes the Data Lake's analytical cross-references (institutional risk, teaching talent, and PAES conversion) ready for production consumption.
+<br>
+<img src="./assets/captura_swagger.png" alt="FastAPI Swagger UI">
 
 <br>
 </details>
@@ -71,15 +81,25 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 **1. Auditoría Profunda: +510 Millones de Registros**
 Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 12 dominios distintos en tiempo récord. 
+<br>
+<img src="./assets/captura_510M.png" alt="Auditoría DuckDB">
 
 **2. Infraestructura del Data Lake Local**
 +11.500 archivos fragmentados unificados y transformados a ecosistema columnar (Parquet) optimizado para analítica. 
+<br>
+<img src="./assets/captura_datalake.png" alt="Infraestructura Parquet">
 
 **3. Pipelines de Asimilación de Datos (ETL)**
 Scripts de conversión procesando la serie completa de Evaluación Docente (ECEP) y el Ejército Silencioso (Asistentes de la Educación). 
+<br>
+<img src="./assets/captura_pipeline1.png" alt="Pipeline ETL 1">
+<br>
+<img src="./assets/captura_pipeline2.png" alt="Pipeline ETL 2">
 
 **4. Despliegue de API REST (FastAPI)**
 Interfaz de consulta ultrarrápida documentada con Swagger/OpenAPI. Expone los cruces analíticos del Data Lake (riesgo institucional, talento docente y conversión PAES) listos para consumo en producción.
+<br>
+<img src="./assets/captura_swagger.png" alt="Despliegue FastAPI">
 
 <br>
 </details>
