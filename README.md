@@ -134,10 +134,6 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 </p>
 
 
-<div align="center">
-  <h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
-  
-  <p align="center">
     
 **1. Auditoría Profunda: +510 Millones de Registros**
 Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 12 dominios distintos en tiempo récord. 
@@ -151,10 +147,15 @@ Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 1
 
 
 
-**4. Despliegue de API REST (FastAPI)**
+**3. Despliegue de API REST (FastAPI)**
 Interfaz de consulta ultrarrápida documentada con Swagger/OpenAPI. Expone los cruces analíticos del Data Lake (riesgo institucional, talento docente y conversión PAES) listos para consumo en producción.
 <br>
 <img src="./assets/captura_swagger.png" alt="Despliegue FastAPI">
 
 <br>
 </details>
+
+<div align="center">
+  <h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
+  
+  <p align="center">
