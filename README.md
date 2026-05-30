@@ -2,7 +2,7 @@
   
 # 👨‍💻 TIANHH77
 
-**Ingeniero de Datos | Custodio de la Información | Analista Forense**
+**Data Architect & Civic Tech Builder | Creador de infraestructura para datos públicos | Analista de autodidacta de sistemas**
 
 </div>
 
