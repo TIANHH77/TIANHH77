@@ -149,12 +149,7 @@ Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 1
 <br>
 <img src="./assets/captura_datalake.png" alt="Infraestructura Parquet">
 
-**3. Pipelines de Asimilación de Datos (ETL)**
-Scripts de conversión procesando la serie completa de Evaluación Docente (ECEP) y el Ejército Silencioso (Asistentes de la Educación). 
-<br>
-<img src="./assets/captura_pipeline1.png" alt="Pipeline ETL 1">
-<br>
-<img src="./assets/captura_pipeline2.png" alt="Pipeline ETL 2">
+
 
 **4. Despliegue de API REST (FastAPI)**
 Interfaz de consulta ultrarrápida documentada con Swagger/OpenAPI. Expone los cruces analíticos del Data Lake (riesgo institucional, talento docente y conversión PAES) listos para consumo en producción.
