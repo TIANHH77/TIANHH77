@@ -133,6 +133,12 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
   </a>
 </p>
 
+
+<div align="center">
+  <h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
+  
+  <p align="center">
+    
 **1. Auditoría Profunda: +510 Millones de Registros**
 Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 12 dominios distintos en tiempo récord. 
 <br>
