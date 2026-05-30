@@ -127,6 +127,12 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 ### 📊 Evidencia de Producción y Escala
 *Nada habla más fuerte que el código en ejecución. A continuación, algunas capturas del motor de procesamiento in-memory y la infraestructura del Data Lake asimilando los datos históricos del Estado:*
 
+<p align="center">
+  <a href="https://surdao.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Probar_Centro_de_Mando_en_Vivo-FF4B4B?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
 **1. Auditoría Profunda: +510 Millones de Registros**
 Escaneo forense de los dominios educativos utilizando DuckDB. El motor unifica 12 dominios distintos en tiempo récord. 
 <br>
