@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 TIANHH77
+# TIANHH77
 
 **Data Architect & Civic Tech Builder | Creador de infraestructura para datos públicos | Analista de autodidacta de sistemas**
 
