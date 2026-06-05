@@ -161,14 +161,18 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 <div align="center">
 
+<h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
+
+<a href="https://vivevolandonomade.com/" target="_blank">
+  <img src="./assets/vive.png" width="100%" alt="Banner Vive Volando Nómada">
+</a>
+
+<br><br><br>
+
 ## 📄 Contacto & CV
 
 *Escanea el siguiente código para descargar mi currículum vitae y conocer más sobre mi trayectoria:*
 <br><br>
 <img src="./assets/cv.png" width="200" alt="Código QR CV">
-
-<br><br>
-
-<h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
 
 </div>
