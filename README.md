@@ -164,7 +164,7 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 <h1><a href="https://vivevolandonomade.com/">🌍 ACCEDER AL ATLAS v3.2 (BETA) 🌍</a></h1>
 
 <a href="https://vivevolandonomade.com/" target="_blank">
-  <img src="./assets/vive.png" width="100%" alt="Banner Vive Volando Nómada">
+  <img src="./assets/vive.png" width="90%" alt="Banner Vive Volando Nómada">
 </a>
 
 <br><br><br>
