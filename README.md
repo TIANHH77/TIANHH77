@@ -171,8 +171,10 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 ## 📄 Contacto & CV
 
-*Escanea el siguiente código para descargar mi currículum vitae y conocer más sobre mi trayectoria:*
+*Escanea el código o haz clic en la imagen para descargar mi currículum vitae y conocer más sobre mi trayectoria:*
 <br><br>
-<img src="./assets/qr.svg" width="200" alt="Código QR CV">
+<a href="https://tianhh77.github.io/cv-interactivo/" target="_blank">
+  <img src="./assets/Mi.png" width="600" alt="Banner CV y QR de Santiago Horta" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</a>
 
 </div>
