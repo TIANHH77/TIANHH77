@@ -173,6 +173,6 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 *Escanea el siguiente código para descargar mi currículum vitae y conocer más sobre mi trayectoria:*
 <br><br>
-<img src="./assets/cv.png" width="200" alt="Código QR CV">
+<img src="./assets/qr.svg" width="200" alt="Código QR CV">
 
 </div>
