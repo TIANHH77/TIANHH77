@@ -171,7 +171,7 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 ## 📄 Contacto & CV
 
-[![Visitas del Repositorio](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTIANHH77%2Fsurdao&count_bg=%230080FF&title_bg=%23555555&title=Visitas&edge_flat=true)](https://github.com/TIANHH77/surdao)
+
 
 *Presiona sobre la imagen para acceder a mi currículum vitae y conocer más sobre mi trayectoria, o contactarme:*
 <br><br>
