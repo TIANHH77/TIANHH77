@@ -179,6 +179,8 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 [![Clones](https://img.shields.io/badge/dynamic/json?color=2ea043&label=Clones&query=count&logo=github&url=https%3A%2F%2Fgist.githubusercontent.com%2FTIANHH77%2F0259cb9b2d97bab774a666c4003eb5a3%2Fraw%2Fclone.json)](https://github.com/TIANHH77/surdao)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-h-4bb592109)
+
 *Presiona sobre la imagen para acceder a mi currículum vitae y conocer más sobre mi trayectoria, o contactarme:*
 <br><br>
 <a href="https://tianhh77.github.io/cv-interactivo/" target="_blank">
