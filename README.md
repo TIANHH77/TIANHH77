@@ -180,10 +180,4 @@ Combino la visión sistémica y crítica de la Terapia Ocupacional con la ingeni
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-h-4bb592109)
 
-*Presiona sobre la imagen para acceder a mi currículum vitae y conocer más sobre mi trayectoria, o contactarme:*
-<br><br>
-<a href="https://tianhh77.github.io/cv-interactivo/" target="_blank">
-  <img src="./assets/Mi.png" width="600" alt="Banner CV y QR de Santiago Horta" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>
 
-</div>
