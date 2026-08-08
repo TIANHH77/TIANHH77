@@ -6,6 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-h-4bb592109)
 
+  <a href="https://surdao-censo-educacion.streamlit.app/"><b>🌐 Ver Aplicación en Vivo (Streamlit Cloud)</b></a> • 
+  <a href="https://t.me/SurdaoBot"><b>🤖 Probar Bot de Telegram</b></a>
+
 **Data Architect & Civic Tech Builder | Creador de infraestructura para datos públicos | Analista de Sistemas Autodidacta**
 
 </div>
